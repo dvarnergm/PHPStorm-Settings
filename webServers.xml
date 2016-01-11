@@ -7,9 +7,6 @@
       <webServer id="d49dee33-308c-482b-8b09-19a60f762e07" name="CallCommando v2" url="http://callcommando-v2.sf.test:8080/app_dev.php">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="f4b84742-6aeb-4189-9987-7aef21eb344e" name="Call Commando" url="http://callcommando.sf.test/app_dev.php">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
