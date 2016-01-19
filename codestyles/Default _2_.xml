@@ -1,4 +1,7 @@
 <code_scheme name="Default (2)">
+  <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -15,6 +18,17 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
@@ -30,6 +44,11 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Twig">
+    <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
