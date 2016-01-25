@@ -72,4 +72,7 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.phpunit.de/4.1/phpunit.xsd" location="$USER_HOME$/Library/Caches/WebIde100/extResources/5ddf74fe_phpunit.xsd" />
+  </component>
 </application>
