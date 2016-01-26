@@ -798,6 +798,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="Identifier">
+      <value>
+        <option name="FOREGROUND" value="82cadf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
@@ -880,6 +886,12 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="Keyword">
+      <value>
+        <option name="FOREGROUND" value="dfd849" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
