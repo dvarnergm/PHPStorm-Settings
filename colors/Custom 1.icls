@@ -899,6 +899,114 @@
         <option name="BACKGROUND" value="3a6da0" />
       </value>
     </option>
+    <option name="MULTIMARKDOWN.ABBREVIATION">
+      <value>
+        <option name="FOREGROUND" value="82cadf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.ATX_HEADER">
+      <value>
+        <option name="FOREGROUND" value="c0b9d2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.CODE">
+      <value>
+        <option name="FOREGROUND" value="d80f38" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.DEFINITION_TERM">
+      <value>
+        <option name="BACKGROUND" value="9d98a9" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HRULE">
+      <value>
+        <option name="FOREGROUND" value="8774e4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HTML_BLOCK">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.IMAGE">
+      <value>
+        <option name="FOREGROUND" value="dfd849" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.INLINE_HTML">
+      <value>
+        <option name="BACKGROUND" value="83858c" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.QUOTE">
+      <value>
+        <option name="BACKGROUND" value="90b79c" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.SETEXT_HEADER" baseAttributes="MULTIMARKDOWN.ATX_HEADER" />
+    <option name="MULTIMARKDOWN.SPECIAL_TEXT">
+      <value>
+        <option name="BACKGROUND" value="83858c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CAPTION">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CEVEN">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CODD">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CELL_RODD_CEVEN">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_COLUMN_EVEN">
+      <value>
+        <option name="FOREGROUND" value="690eb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_COLUMN_ODD">
+      <value>
+        <option name="FOREGROUND" value="690eb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_HEADER">
+      <value>
+        <option name="FOREGROUND" value="690eb3" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_ROW_EVEN">
+      <value>
+        <option name="FOREGROUND" value="4f0885" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.TASK_ITEM_MARKER">
+      <value>
+        <option name="FOREGROUND" value="9588dd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.VERBATIM">
+      <value>
+        <option name="FOREGROUND" value="d80f38" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.WIKI_LINK_TEXT">
+      <value>
+        <option name="BACKGROUND" value="95a69a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80807f" />
