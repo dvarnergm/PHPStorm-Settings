@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="d3" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.3_d3.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.3_d3.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
