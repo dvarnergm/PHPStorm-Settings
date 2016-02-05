@@ -35,5 +35,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="spectrum" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bgrins.github.io_spectrum_spectrum.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bgrins.github.io_spectrum_spectrum.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
