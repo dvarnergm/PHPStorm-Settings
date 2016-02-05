@@ -928,6 +928,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MULTIMARKDOWN.HTML_BLOCK">
+      <value />
+    </option>
     <option name="MULTIMARKDOWN.IMAGE">
       <value>
         <option name="FOREGROUND" value="dfd849" />
@@ -944,11 +947,24 @@
         <option name="BACKGROUND" value="90b79c" />
       </value>
     </option>
+    <option name="MULTIMARKDOWN.SETEXT_HEADER" baseAttributes="MULTIMARKDOWN.ATX_HEADER" />
     <option name="MULTIMARKDOWN.SPECIAL_TEXT">
       <value>
         <option name="BACKGROUND" value="83858c" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CAPTION">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CEVEN">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CODD">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.TABLE_CELL_RODD_CEVEN">
+      <value />
     </option>
     <option name="MULTIMARKDOWN.TABLE_COLUMN_EVEN">
       <value>
