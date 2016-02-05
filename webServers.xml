@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="70d03909-08de-4c49-aa00-65ce82518144" name="localhost (Symfony)" url="http://localhost/app_dev.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d49dee33-308c-482b-8b09-19a60f762e07" name="CallCommando v2" url="http://callcommando-v2.sf.test:8080/app_dev.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="f2bc382e-c6d4-49ac-8333-bfe37a9bf2ab" name="Call Commando v2" url="http://v2.callcommando.sf.test/app_dev.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

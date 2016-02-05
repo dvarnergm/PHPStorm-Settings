@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="dump" value="printf('$TITLE$&lt;pre&gt;%s&lt;/pre&gt;', print_r($VALUE$, true));" description="Web-friendly print_r" toReformat="true" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
