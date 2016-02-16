@@ -10,6 +10,9 @@
       <webServer id="f2bc382e-c6d4-49ac-8333-bfe37a9bf2ab" name="Call Commando v2" url="http://v2.callcommando.sf.test/app_dev.php">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="7cfd9e01-f695-42e1-9004-97121ef81a03" name="Link Demo" url="http://linkdemo.sf.test/app_dev.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
