@@ -788,9 +788,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="273627" />
-      </value>
+      <value />
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
@@ -865,6 +863,12 @@
     <option name="JS.ATTRIBUTE">
       <value>
         <option name="BACKGROUND" value="423535" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c710de" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
