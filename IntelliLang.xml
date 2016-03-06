@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HTML" injector-id="php">
+      <display-name>&quot;&lt;html&gt;&quot;</display-name>
+      <place disabled="true"><![CDATA[and(phpLiteralExpression().withText(string().matchesBrics("(\\<\\<\\<)?.*\\</?<anyname>.*>.*")), not(phpLiteralExpression().withSuperParent(2, phpFunctionReference().withText(or(string().startsWith("strip_tags"), string().startsWith("preg_"))))))]]></place>
+    </injection>
   </component>
 </application>
