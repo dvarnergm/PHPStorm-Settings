@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="Appfile" type="Haskell" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
