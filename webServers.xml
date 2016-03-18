@@ -13,6 +13,9 @@
       <webServer id="7cfd9e01-f695-42e1-9004-97121ef81a03" name="Link Demo" url="http://linkdemo.sf.test/app_dev.php">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="de5c5e8b-a54f-477b-84ba-2b6cf6299d7f" name="richdealersconnect.sf.test" url="http://richdealersconnect.sf.test/app_dev.php">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
