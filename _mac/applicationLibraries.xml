@@ -131,6 +131,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="tinymce" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__tinymce.cachefly.net_4.0_tinymce.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__tinymce.cachefly.net_4.0_tinymce.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="underscore" type="javaScript">
       <properties>
         <sourceFilesUrls>
