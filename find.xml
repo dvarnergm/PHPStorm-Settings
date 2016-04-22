@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/Tyler/GitHub/Gravitas-GM/FacebookDigital/src'" />
     <option name="defaultScopeName" value="Directory '/Users/Tyler/GitHub/Gravitas-GM/FacebookDigital/src'" />
+    <option name="localRegularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/Tyler/GitHub/Gravitas-GM/FacebookDigital/src'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
