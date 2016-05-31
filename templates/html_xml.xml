@@ -1,0 +1,13 @@
+<templateSet group="html/xml">
+  <template name="bsmodal" value="&lt;div class=&quot;modal fade&quot; id=&quot;$NAME$&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;$NAME$-title&quot; aria-hidden=&quot;true&quot;&gt;&#10;&#9;&lt;div class=&quot;modal-dialog&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;modal-content&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;modal-header&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;/button&gt;&#10;&#10;&#9;&#9;&#9;&#9;&lt;h4 class=&quot;modal-title&quot; id=&quot;$NAME$-title&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;$TITLE$&#10;&#9;&#9;&#9;&#9;&lt;/h4&gt;&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;&#10;&#9;&#9;&#9;&lt;div class=&quot;modal-body&quot;&gt;&#10;&#9;&#9;&#9;&#9;$BODY$&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;&#10;&#9;&#9;&#9;&lt;div class=&quot;modal-footer&quot;&gt;&#10;&#9;&#9;&#9;&#9;$FOOTER$&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FOOTER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
