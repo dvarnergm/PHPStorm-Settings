@@ -1,0 +1,10 @@
+<templateSet group="Zen HTML">
+  <template name="input:checkbox" value="&lt;input type=&quot;checkbox&quot; name=&quot;$VAR0$&quot; id=&quot;$VAR1$&quot;&gt;" description="&lt;input type=&quot;checkbox&quot; name=&quot;...&quot; id=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
