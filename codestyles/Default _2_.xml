@@ -1,5 +1,7 @@
 <code_scheme name="Default (2)">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
