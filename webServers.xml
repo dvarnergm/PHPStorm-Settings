@@ -19,6 +19,9 @@
       <webServer id="c94405ec-430f-4f91-a5aa-91215dd876b6" name="FacebookDigital" url="http://myfbdigital.sf.test/app_dev.php">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="70789cc2-45a4-43d8-9517-45cd70377394" name="Vagrant" url="http://localhost:8000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
