@@ -62,10 +62,12 @@
     <library name="react" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@15.3.1_dist_react.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react@15.3.0_dist_react.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react@15.3.1_dist_react.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react@15.3.0_dist_react.js" />
       </CLASSES>
       <SOURCES />
@@ -73,10 +75,12 @@
     <library name="react-dom" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@15.3.1_dist_react-dom.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react-dom@15.3.0_dist_react-dom.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_react-dom@15.3.1_dist_react-dom.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_react-dom@15.3.0_dist_react-dom.js" />
       </CLASSES>
       <SOURCES />
