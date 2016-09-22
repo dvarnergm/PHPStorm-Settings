@@ -1,54 +1,7 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.twig" value="Twig" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.css" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sh" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_25" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_26" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_27" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_28" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_29" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="HTML" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="PHP" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8" value="Twig" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9" value="XML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="TEXT" />
   </component>
 </application>
