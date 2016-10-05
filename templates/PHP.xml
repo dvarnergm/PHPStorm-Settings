@@ -6,4 +6,16 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="str" value="string" description="string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+  <template name="strn" value="string|null" description="string or null" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
 </templateSet>
