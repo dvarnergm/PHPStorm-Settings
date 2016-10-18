@@ -229,5 +229,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="ZeroClipboard" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_zeroclipboard_2.2.0_ZeroClipboard.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_zeroclipboard_2.2.0_ZeroClipboard.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
