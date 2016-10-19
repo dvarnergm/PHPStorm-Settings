@@ -7,6 +7,9 @@
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
   </template>
 </templateSet>
