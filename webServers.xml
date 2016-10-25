@@ -22,6 +22,9 @@
       <webServer id="70789cc2-45a4-43d8-9517-45cd70377394" name="Vagrant" url="http://localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="83cf6630-7f41-47fe-9626-68d44c6ab74f" name="Mobile Detect" url="http://mobiledetect.sf.test/app_dev.php">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
