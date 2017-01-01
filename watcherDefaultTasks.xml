@@ -39,7 +39,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--sourcemap $FilePath$" />
+      <option name="arguments" value="--sourcemap $FilePath$  --typeRoots $ProjectFileDir$\typings\globals " />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .ts files into .js files" />
       <option name="exitCodeBehavior" value="ERROR" />
