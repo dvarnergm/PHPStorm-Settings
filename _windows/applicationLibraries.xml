@@ -62,6 +62,7 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.1.0_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.0.0-alpha1_jquery.js" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_jquery@3.1.0_dist_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.1.1_jquery.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
@@ -69,6 +70,7 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.1.0_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_3.0.0-alpha1_jquery.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_npmcdn.com_jquery@3.1.0_dist_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.1.1_jquery.js" />
       </CLASSES>
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
@@ -159,6 +161,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_requirejs-domready_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="underscore" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js" />
       </CLASSES>
       <SOURCES />
     </library>
