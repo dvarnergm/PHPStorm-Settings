@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
   </component>
