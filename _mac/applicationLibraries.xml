@@ -1,14 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="bootstrap" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_3.3.5_js_bootstrap.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.6_js_bootstrap.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.4_js_bootstrap.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_3.3.6_js_bootstrap.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__maxcdn.bootstrapcdn.com_bootstrap_3.3.5_js_bootstrap.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.6_js_bootstrap.js" />
@@ -18,13 +10,6 @@
       <SOURCES />
     </library>
     <library name="bootstrap-datetimepicker" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.42_js_bootstrap-datetimepicker.min.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.37_js_bootstrap-datetimepicker.min.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.43_js_bootstrap-datetimepicker.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.42_js_bootstrap-datetimepicker.min.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-datetimepicker_4.17.37_js_bootstrap-datetimepicker.min.js" />
@@ -33,35 +18,18 @@
       <SOURCES />
     </library>
     <library name="bootstrap-toggle" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-toggle_2.2.2_js_bootstrap-toggle.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-toggle_2.2.2_js_bootstrap-toggle.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="ckeditor" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.ckeditor.com_4.4.6_standard_ckeditor.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.ckeditor.com_4.4.6_standard_ckeditor.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="d3" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.6_d3.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.5_d3.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.3_d3.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.6_d3.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3_3.5.5_d3.js" />
@@ -70,22 +38,12 @@
       <SOURCES />
     </library>
     <library name="d3-tip" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3-tip_0.6.3_d3-tip.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_d3-tip_0.6.3_d3-tip.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="hinclude" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_hinclude_0.9.5_hinclude.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_hinclude_0.9.5_hinclude.js" />
       </CLASSES>
@@ -94,15 +52,6 @@
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.2.4_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.2.3_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_3.0.0_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.1.4_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_1.12.3_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_1.12.3_jquery.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_jquery_2.1.1_jquery.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.2.4_jquery.js" />
@@ -121,9 +70,6 @@
     <library name="jquery-ui" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jqueryui_1.11.4_jquery-ui.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jqueryui_1.11.4_jquery-ui.js" />
@@ -134,25 +80,12 @@
       <SOURCES />
     </library>
     <library name="material" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.1.1_material.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.getmdl.io_1.1.1_material.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="moment" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.15.1_moment.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_moment.js_2.9.0_moment.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_moment.js_2.10.2_moment.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.11.0_moment.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_moment.js_2.15.1_moment.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_moment.js_2.9.0_moment.js" />
@@ -162,78 +95,42 @@
       <SOURCES />
     </library>
     <library name="numeral" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_numeral.js_1.5.3_numeral.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_numeral.js_1.5.3_numeral.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="OneSignalSDK" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.onesignal.com_sdks_OneSignalSDK.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.onesignal.com_sdks_OneSignalSDK.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-0.14.7" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_fb.me_react-0.14.7.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_fb.me_react-0.14.7.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-dom-0.14.7" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_fb.me_react-dom-0.14.7.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_fb.me_react-dom-0.14.7.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="spectrum" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bgrins.github.io_spectrum_spectrum.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_bgrins.github.io_spectrum_spectrum.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="tinymce" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__tinymce.cachefly.net_4.0_tinymce.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__tinymce.cachefly.net_4.0_tinymce.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="underscore" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.6.0_underscore.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.6.0_underscore.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js" />
@@ -241,11 +138,6 @@
       <SOURCES />
     </library>
     <library name="ZeroClipboard" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_zeroclipboard_2.2.0_ZeroClipboard.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_zeroclipboard_2.2.0_ZeroClipboard.js" />
       </CLASSES>
