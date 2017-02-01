@@ -25,6 +25,9 @@
       <webServer id="83cf6630-7f41-47fe-9626-68d44c6ab74f" name="Mobile Detect" url="http://mobiledetect.sf.test/app_dev.php">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9cd8bf05-4543-4a23-a1d9-5e462bb16ccd" name="Connect.dev" url="http://connect.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
